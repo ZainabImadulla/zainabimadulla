@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Zainab Imadulla and a second year Computer Science student at Northeastern University!
+My name is Zainab Imadulla and a third year Computer Science student at Northeastern University!
 <!--
 **ZainabImadulla/zainabimadulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
