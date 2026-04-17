@@ -8,7 +8,7 @@ My name is Zainab Imadulla and a third year Computer Science student at Northeas
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadulla.z@northeastern.edu)
  
 ---
- <div align="center">
+
 ✦ tech stack ✦
  
 ### Languages
@@ -45,5 +45,4 @@ My name is Zainab Imadulla and a third year Computer Science student at Northeas
 ![OpenSearch](https://img.shields.io/badge/opensearch-%23003B57.svg?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
- 
-</div>
+
