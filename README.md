@@ -1,4 +1,4 @@
-# Hi there, I'm Zainab 👋
+# Hi, I'm Zainab
  
 **CS @ Northeastern University · Boston, MA · GPA 3.9 · Dean's List**
 
